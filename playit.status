@@ -1,711 +1,1323 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1728844660132 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1729101953079 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844675248 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101956219 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844678318 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101959329 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844681384 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101962427 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844684466 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101965901 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844687530 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101969007 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844690595 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101972098 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844693660 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101975338 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844696733 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101978445 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844699799 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101981555 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844702878 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101984663 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844705947 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101987815 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844709115 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101991083 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844712182 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101994178 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844715252 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729101997268 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844718323 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102000361 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844721444 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102003451 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844724515 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102006562 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844728196 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102009646 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844743298 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102012764 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844746368 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102015860 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844749452 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102018957 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844752528 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102022091 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844755592 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102025188 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844758653 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102028543 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844761722 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102032056 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844764783 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102035179 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844767856 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102038279 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844770965 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102041399 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844774319 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102044519 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844777392 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102047628 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844780463 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102051480 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844783534 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102054592 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844786606 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102057673 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844789681 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102060786 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844792760 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102063884 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844795874 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102066995 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844798947 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102070124 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844802022 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102073216 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844805092 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102076440 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844808156 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102079530 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844811237 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102082660 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844814315 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102085753 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844817379 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102088837 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844820449 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102091938 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844823518 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102095022 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844826590 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102098106 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844829666 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102101203 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844832776 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102104336 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844835848 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102107455 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844850978 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102110554 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844854301 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102113659 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844857375 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102116751 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844860586 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102119892 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844863659 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102122996 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844866842 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102126119 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844869910 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102129258 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844885013 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102132440 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844888091 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102135544 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844891169 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102138660 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844894566 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102141819 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844897645 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102144978 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844900738 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102148226 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844903803 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102151340 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844918938 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102154439 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844922007 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102157579 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844925073 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102160774 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844928264 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102163852 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844931333 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102166936 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844934431 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102170064 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844937493 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102173558 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844940711 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102176640 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844943773 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102179753 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844947041 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102182917 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844950117 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102186076 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844953210 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102189169 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844956426 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102192258 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844959502 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102195361 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844962584 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102198477 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728844977699 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102201593 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844980784 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102204700 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844983963 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102207789 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728844987458 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102210888 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728845002584 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102214100 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845005653 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102217245 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845008743 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102220346 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845011814 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102223443 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845014898 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102227064 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845017976 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102230171 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845021042 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102233607 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845024112 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102236702 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845027180 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102239810 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845030253 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102242991 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845033323 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102246095 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845036397 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102249195 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845039479 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102252303 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845043763 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102255394 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845046850 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102258478 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728845061966 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102261718 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845065060 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102264811 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845068124 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102267909 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845072253 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102271074 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845075330 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102274180 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1728845092102 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102277281 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845095276 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102280385 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845098365 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102283468 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845101444 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102287008 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845104519 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102290118 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845107601 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102293252 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845110707 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102296350 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845113768 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102299438 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845116838 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102302524 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845119907 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102305607 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1728845123020 tunnel running, 1 tunnels registered
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102308752 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-keywords-accepts.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102311924 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102315035 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102318131 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102321239 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102324343 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102327435 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102330532 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102333619 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102336719 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102339804 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102342903 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102345985 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102349070 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102352155 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102355269 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102358384 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102361614 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102364725 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102367826 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102370946 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102374364 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102377432 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102380528 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102383629 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102386727 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102389831 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102392923 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102396150 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102399256 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102402504 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102405590 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102408671 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102411768 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102414916 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102418000 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102421081 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102424160 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102427591 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102430678 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102433761 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102436868 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102439976 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102443090 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102446232 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102449317 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102452434 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102455567 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102458669 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102461806 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102464916 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102468010 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102471098 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102474208 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102477296 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102480397 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102483480 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102486566 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102489660 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102492758 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102495856 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102498957 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102502045 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102505159 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102508281 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102511511 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102514612 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102517702 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102520943 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102524039 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102527125 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102530207 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102533298 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102536436 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102539543 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102542648 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
