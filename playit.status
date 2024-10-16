@@ -1321,3 +1321,17 @@ Email not verified https://playit.gg/account/settings/account/verify-email
 TUNNELS
 expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
 method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102546008 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1729102549099 tunnel running, 2 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+expected-pp.gl.at.ply.gg:1812 => 127.0.0.1:1812 (proto: Udp, port count: 1)
+method-rivers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
